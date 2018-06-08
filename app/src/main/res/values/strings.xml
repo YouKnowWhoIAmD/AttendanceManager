@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Attendance Management</string>
+
+    <string name="editClassrooms">EDITING</string>
+    <string name="takeAttendance">ATTENDANCE</string>
+    <string name="statistics">STATISTICS</string>
+    <string name="pastAttendances">Past Attendances</string>
+
+    <string name="classroomName">Classroom Name</string>
+
+    <string name="attendance">Attendance</string>
+    <string name="taker">Taker</string>
+
+    <string name="ok">OK</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="addClassroom">Add Classroom</string>
+    <string name="deleteAll">Delete All</string>
+    <string name="sureToDelete">&#160;will be deleted</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="publishAttendance">Convert into Excel and Send Mail</string>
+    <string name="allToDelete">All attendances of this class will be deleted</string>
+    <string name="changeDateTime">Change Date and Time</string>
+
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+    <string name="studentName">Student Name</string>
+
+    <string name="emptyMessageClassroom">Add classrooms and students</string>
+    <string name="emptyMessageStudent">Add with plus icon and long press to delete</string>
+    <string name="emptyMessageDelete">Press long on item to delete item</string>
+    <string name="emptyMessageSave">You may change date and time</string>
+    <string name="emptyMessageStatistics">Take attendance and press on that to see graph</string>
+
+    <string name="couldNotInsertAttendance">Already exists</string>
+    <string name="shareText">Share with</string>
+    <string name="roll">Roll Number</string>
+    <string name="name">Student Name</string>
+    <string name="studentDetails">Student Details</string>
+</resources>

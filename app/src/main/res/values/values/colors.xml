@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="blackish">#212121</color>
+    <color name="darkGray">#727272</color>
+    <color name="white">#ffffff</color>
+    <color name="smoothWhite">#FCF9F9</color>
+    <color name="lightGray">#efefef</color>
+    <color name="gray">#b6b6b6</color>
+    <color name="transparent">#00000000</color>
+    <color name="statisticsItemColour">#EDE7F6</color>
+    <color name="darkGreen">#689F38</color>
+
+    <!-- material colours -->
+    <color name="materialDeepPurple">#673AB7</color>
+    <color name="materialLightGreen">#8BC34A</color>
+
+    <!-- theme -->
+    <color name="colourAccent">@color/materialLightGreen</color>
+    <color name="colourPrimaryLight">#D1C4E9</color>
+    <color name="colourPrimary">@color/materialDeepPurple</color>
+    <color name="colourPrimaryDark">#512DA8</color>
+
+    <color name="page_background">@color/white</color>
+    <color name="primary_text">@color/blackish</color>
+    <color name="secondary_text">@color/darkGray</color>
+    <color name="left_menu_bg_colour">@color/white</color>
+    <color name="divider_colour">@color/gray</color>
+
+</resources>

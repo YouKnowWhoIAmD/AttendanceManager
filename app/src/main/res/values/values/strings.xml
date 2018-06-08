@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Attendance Taker</string>
+
+    <string name="editClassrooms">EDITING</string>
+    <string name="takeAttendance">ATTENDANCE</string>
+    <string name="statistics">STATISTICS</string>
+    <string name="pastAttendances">Past Attendances</string>
+
+    <string name="classroomName">Classroom Name</string>
+
+    <string name="attendance">Attendance</string>
+    <string name="taker">Taker</string>
+
+    <string name="ok">OK</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="addClassroom">Add Classroom</string>
+    <string name="deleteAll">Delete All</string>
+    <string name="sureToDelete">&#160;will be deleted</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="publishAttendance">Convert into Excel and Send Mail</string>
+    <string name="allToDelete">All attendances of this class will be deleted</string>
+    <string name="changeDateTime">Change Date and Time</string>
+
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+    <string name="studentName">Student Name</string>
+
+    <string name="emptyMessageClassroom">Add classrooms and students, then pull to refresh&#8230;</string>
+    <string name="emptyMessageStudent">Add with plus icon; press long on item to delete&#8230;</string>
+    <string name="emptyMessageDelete">Press long on item to delete item; press bin to delete all&#8230;</string>
+    <string name="emptyMessageSave">You may change date and time if needed&#8230;</string>
+    <string name="emptyMessageStatistics">Take attendance, then press on item here to see graph&#8230;</string>
+
+    <string name="couldNotInsertAttendance">Already exists! Check Past Attendances.</string>
+
+    <string name="rateApp">Would you support the application with 5 stars?</string>
+
+    <string name="shareText">Share with</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_backup">Backup</string>
+    <string name="action_restore">Restore</string>
+    <string name="action_import_students">Import CSV</string>
+</resources>

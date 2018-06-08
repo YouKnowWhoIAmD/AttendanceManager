@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/default_margin"
+        android:paddingLeft="@dimen/default_margin"
+        android:paddingRight="@dimen/default_margin">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size_medium"
+            android:fontFamily="@string/fontFamilyRegular"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="@dimen/default_margin"
+        android:paddingRight="@dimen/default_margin">
+
+        <EditText
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size_medium"
+            android:hint="@string/name"
+            android:textAllCaps="true"
+            android:singleLine="true"
+            android:maxLength="24" >
+
+        <requestFocus />
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/roll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/content"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size_medium"
+            android:hint="@string/roll"
+            android:textAllCaps="true"
+            android:singleLine="true"
+            android:maxLength="24"
+            android:visibility="gone">
+
+            <requestFocus />
+
+        </EditText>
+
+    </RelativeLayout>
+
+</LinearLayout>
